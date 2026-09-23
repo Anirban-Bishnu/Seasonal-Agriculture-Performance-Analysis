@@ -1,10 +1,12 @@
 # Seasonal Agriculture Performance Analysis
 
 ## VOIS AICTE Batch 1 (2026–2027)
-## Name: ANIRBAN BISHNU
-## College: University Institute of Technology
-## VOIS AICTE Batch 1 (2026–2027)
-## AICTE STU ID :  STU6a6788dc7129f1785170140
+## Name: 
+ANIRBAN BISHNU
+## College:
+University Institute of Technology
+## AICTE STU ID : 
+STU6a6788dc7129f1785170140
 
 ## Project Overview
 
